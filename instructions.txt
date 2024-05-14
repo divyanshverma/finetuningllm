@@ -1,6 +1,9 @@
 WIP....
 
 huggingface-cli login
+   68  git clone https://github.com/hiyouga/LLaMA-Factory.git
+   69  cd LLaMA-Factory
+   70  pip install -e .[torch,metrics]
 
 cd LLaMA-Factory/
 
